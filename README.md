@@ -3,7 +3,7 @@
 [embedmd]:# (constellix.tf)
 ```tf
 provider "constellix" {
-  version = "0.2.2"
+  version = "0.3.0"
 
   # apikey - (required) is a type of string
   apikey = null
