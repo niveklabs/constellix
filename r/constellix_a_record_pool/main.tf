@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    constellix = ">= 0.2.1"
+    constellix = ">= 0.2.2"
   }
 }
 
